@@ -1,0 +1,8 @@
+[debug] Copy resource mappings: 
+[debug] 	(/Users/alexanderberg/Documents/TestApp2Import/target/web/public/test/public,/Users/alexanderberg/Documents/TestApp2Import/target/scala-2.11/test-classes/public)
+[debug] 	(/Users/alexanderberg/Documents/TestApp2Import/target/web/public/test/public/images,/Users/alexanderberg/Documents/TestApp2Import/target/scala-2.11/test-classes/public/images)
+[debug] 	(/Users/alexanderberg/Documents/TestApp2Import/target/web/public/test/public/javascripts,/Users/alexanderberg/Documents/TestApp2Import/target/scala-2.11/test-classes/public/javascripts)
+[debug] 	(/Users/alexanderberg/Documents/TestApp2Import/target/web/public/test/public/stylesheets,/Users/alexanderberg/Documents/TestApp2Import/target/scala-2.11/test-classes/public/stylesheets)
+[debug] 	(/Users/alexanderberg/Documents/TestApp2Import/target/web/public/test/public/images/favicon.png,/Users/alexanderberg/Documents/TestApp2Import/target/scala-2.11/test-classes/public/images/favicon.png)
+[debug] 	(/Users/alexanderberg/Documents/TestApp2Import/target/web/public/test/public/javascripts/jquery-1.9.0.min.js,/Users/alexanderberg/Documents/TestApp2Import/target/scala-2.11/test-classes/public/javascripts/jquery-1.9.0.min.js)
+[debug] 	(/Users/alexanderberg/Documents/TestApp2Import/target/web/public/test/public/stylesheets/main.css,/Users/alexanderberg/Documents/TestApp2Import/target/scala-2.11/test-classes/public/stylesheets/main.css)

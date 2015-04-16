@@ -1,0 +1,3 @@
+[debug] Copy resource mappings: 
+[debug] 	(/Users/alexanderberg/Documents/TestApp2Import/conf/application.conf,/Users/alexanderberg/Documents/TestApp2Import/target/scala-2.11/classes/application.conf)
+[debug] 	(/Users/alexanderberg/Documents/TestApp2Import/conf/routes,/Users/alexanderberg/Documents/TestApp2Import/target/scala-2.11/classes/routes)
