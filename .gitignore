@@ -18,3 +18,9 @@ RUNNING_PID
 
 # intellij
 .idea
+
+logs
+project/project
+project/target
+target
+tmp
